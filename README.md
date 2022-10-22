@@ -1,1 +1,3 @@
-# project6-ABM
+# Agent-based model of measurement of personal proteccion against the spread of the SARS-COVID-2
+
+<b> **Abstract** </b>: After having presented several waves of spread of the COVID-19 (SARS-COV 2) pandemic, all countries of the world are struggling to regain their economy by slowly lifting restrictions on mobility and social distancing measures applied during the crisis. Numerous studies provide us with evidence convincing about how contact distancing, face mask use, and hand washing habits can reduce the risk of transmission of SARS-CoV-2. This work shows the research carried out on Agent-based models to simulate the spread of COVID-19 incorporating personal protection measures.
